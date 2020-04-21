@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-print("hello Kiota Labs Private Limited--i am going to update")
+print("hello Kiota Labs")
 }
